@@ -35,10 +35,10 @@
 
 ## 个人分支的 GIT 统计报告
 前端项目贡献：
-![fastchat-fe](/images/fastchat-fe-contribution.png)
+![fastchat-fe](../images/fastchat-fe-contribution.png)
 
 另外，为了验证数据获取抽象化的成果，我还写了一个简单的php+codeigniter后台项目：[fastchat-se](https://github.com/csr632/fastchat-se)。
-![fastchat-se](/images/fastchat-se-contribution.png)
+![fastchat-se](../images/fastchat-se-contribution.png)
 行数不准确，codeigniter(php框架)本身的代码被算上了。
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单
@@ -48,8 +48,8 @@
 4. 通过docker+nginx来部署前端静态资源。
 
 ## 个人的技术类、项目管理类博客清单
-[详解REST架构风格](https://segmentfault.com/a/1190000014768057)
-[【linux】与 用户、权限 有关的常用命令](https://segmentfault.com/a/1190000015228684)
-[【docker】 bind-mount或者COPY时需要注意 用户、文件权限 的问题](https://segmentfault.com/a/1190000015233229)
-[【docker】小技巧：在宿主机器上直接查看docker容器的进程](https://segmentfault.com/a/1190000015238535)
-[用css控制元素高度：自底向上和自顶向下的方法](https://segmentfault.com/a/1190000015309390)
+1. [详解REST架构风格](https://segmentfault.com/a/1190000014768057)
+2. [【linux】与 用户、权限 有关的常用命令](https://segmentfault.com/a/1190000015228684)
+3. [【docker】 bind-mount或者COPY时需要注意 用户、文件权限 的问题](https://segmentfault.com/a/1190000015233229)
+4. [【docker】小技巧：在宿主机器上直接查看docker容器的进程](https://segmentfault.com/a/1190000015238535)
+5. [用css控制元素高度：自底向上和自顶向下的方法](https://segmentfault.com/a/1190000015309390)
