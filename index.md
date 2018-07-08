@@ -31,3 +31,11 @@
  - X4 Final Report
   - [15331031-CWL-FinalReport](./posts/15331031-CWL-FinalReport.md)
   - [15331029-CSR-FinalReport](/posts/15331029-CSR-FinalReport.md)
+
+## 运行截图
+注册登陆：
+![注册登陆](/images/register.gif)
+好友功能：
+![好友功能](/images/friend.gif)
+群聊功能：
+![群聊功能](/images/group.gif)
