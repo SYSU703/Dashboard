@@ -1,5 +1,5 @@
 # 系统分析与设计课程项目主页
-https://sysu703.github.io/dashboard-system-analysis-design-course/
+https://sysu703.github.io/Dashboard/
 
 ## FastChat 简介
 FastChat 是一款基于 Web 开发的即时通讯系统，它主打以下三个优势：
